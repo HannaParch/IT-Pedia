@@ -7,7 +7,7 @@ from time import sleep
 from selenium.webdriver.common.keys import Keys
 
 # TestData
-username = "hanna.parchomenko@eracent.com"
+username = "hanna.parchomenko@gmail.com"
 haslo = "hp123!@#"
 
 invalidusername = "antoni"
