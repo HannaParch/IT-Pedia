@@ -26,7 +26,7 @@ sudo apt install python3.8-venv
 
 git init
 
-git pull https://github.com/flopawc/Projekt
+git pull https://github.com/HannaParch/IT-Pedia
 
 python3 -m venv env
 
