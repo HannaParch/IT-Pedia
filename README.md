@@ -14,3 +14,26 @@ Python - Version 3.8.10
 
 # Zawartość
 Zawiera klase i metody umozliwiające wykonanie przypadków testowych.
+
+# Instalacja i uruchomienie
+Aby skonfigurować wirtualne środowisko należy użyć komend:
+
+sudo apt install git
+
+sudo apt install python3
+
+sudo apt install python3.8-venv
+
+git init
+
+git pull https://github.com/flopawc/Projekt
+
+python3 -m venv env
+
+source env/bin/activate
+
+Aby wyłączyć srodowisko wirtualne:
+
+source env/bin/deactivate
+
+Wazne! Strona podlega ciaglemu rozwojowi, niektore z testow moga stac sie nieaktualne. Do zalogowania nalezy zalozyc konto trail wazne 30 dni.
