@@ -7,8 +7,8 @@ import unittest
 from time import sleep
 
 # TestData
-username = "hanna.parchomenko@eracent.com"
-haslo = "hp123!@#"
+username = "hanna.parchomenko@gmail.com"
+haslo = "test123"
 
 class LoginTest(unittest.TestCase):
     def setUp(self):
